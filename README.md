@@ -29,3 +29,6 @@ data
 #['a', 'b', 'c']
 ```
 - pickle.load(file)을 통해 파일을 읽기위해서는 pickle.dump로 입력된 파일이어야 한다.
+
+## FFT
+- 참고자료 : <https://m.blog.naver.com/PostView.nhn?blogId=gudrb1707&logNo=221276702029&proxyReferer=https:%2F%2Fwww.google.com%2F>
