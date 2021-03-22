@@ -40,3 +40,4 @@ data
 
 ## FFT
 - 참고자료 : <https://m.blog.naver.com/PostView.nhn?blogId=gudrb1707&logNo=221276702029&proxyReferer=https:%2F%2Fwww.google.com%2F>
+- <https://marisara.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-openCV-25-%EC%A3%BC%ED%8C%8C%EC%88%98-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98Fourier-transform>
