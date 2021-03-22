@@ -1,5 +1,11 @@
 # FingerVein-Spoofing
 
+
+
+- 시계열 신호\
+![image](https://user-images.githubusercontent.com/70633080/112020894-1897c980-8b74-11eb-9caa-618bc2f4c2eb.png)
+
+
 ## Pickle file
 - list나 class 같은 text가 아닌 자료형데이터는 일반적인 파일입출력 방법으로는 데이터를 불러올 수 없다.
 - python에서는 이와 같은 자료형의 데이터를 파일로 저장하기 위해 pickle모듈을 사용한다.
