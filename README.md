@@ -12,10 +12,9 @@
 6. 모델링
 7. 모델 학습 및 평가
 
-- 시계열 신호 예시\
-![image](https://user-images.githubusercontent.com/70633080/112020894-1897c980-8b74-11eb-9caa-618bc2f4c2eb.png)\
-![-np.mean](https://user-images.githubusercontent.com/70633080/112023476-a1b00000-8b76-11eb-91d4-af991d20e258.png)
-
-- 주파수 변환 예
+## Data
+- Real 지정맥 이미지 예시
+- Fake 지정맥 이미지 예시
+    - 손가락에 print된 지정맥 image를 감싼 후 
 ## Model
 ## Result
