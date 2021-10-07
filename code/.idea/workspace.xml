@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc2118ea-254f-4bde-9840-32d0d22c18c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DNN신경망모델 사용-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/cnn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1dresnet.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNN신경망모델 사용.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bjy_FakeFingerveinDetection_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.04-0.20_SGD.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.06-0.16_best.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.22-0.11.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.22-0.21.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621237868.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621238363.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621238643.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621238878.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621238920.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621239042.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621239076.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621239087.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621239370.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621239446.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621239732.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621240814.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621241269.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621244270.DESKTOP-PB93OT4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/result/events.out.tfevents.1621244348.DESKTOP-PB93OT4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yhhNfbJHB7GLwBsVkweHKWeywT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2118ea-254f-4bde-9840-32d0d22c18c4" name="Default Changelist" comment="" />
+      <created>1632709691592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632709691592</updated>
+      <workItem from="1632709692841" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
